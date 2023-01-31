@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  height: 100px;
+  background-color: rgb(63, 123, 190);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}  main{
+  height: ;: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} .senha{
+  margin-top: 10px;
+  padding: 30px;
+  border-radius: 20px;
+  background-color: #000;
+  color: #fff;
+  padding-bottom: 50px;
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+
+} #senha{
+  border: 1px solid rgb(8, 193, 250);
+  border-radius: 10px;
+  padding: 20px;
+  background-color:  rgb(8, 193, 250);
+  text-align: center;
+} .title{ 
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: sans-serif;
+} .content{
+  margin: 0 auto;
+  align-items: center;
+
+} .box{
+  margin-top: 1rem;
+text-align: center;
+} textarea{
+  outline: none;
+}.paragraph{
+  color: red;
+}
